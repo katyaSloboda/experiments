@@ -1,4 +1,4 @@
-//Using ShellSort аor sorting an array of numbers
+//Using ShellSort for sorting an array of numbers
 
 #include <iostream>
 #include <cstdio>
